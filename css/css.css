@@ -9,7 +9,7 @@ yellow orange: #FFA446
 */
 
 * {
-		box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 .row {width: 100%; min-height: 500px;}
@@ -22,7 +22,7 @@ div {background-color: #E35B5D; padding: 10px;}
 section {background-color: #fff; margin: 25px 10px; padding: 10px; min-height: 400px;}
 section span.border {
 	background: #0cf;
-	float:right;
+	float: right;
 	display: block;
 	min-width: 200px;
 	max-height: 75px;
@@ -45,3 +45,8 @@ section span.border {
     width: 50%;
     float: left;
   }
+.tablet:nth-child(3){
+
+width: 100%;
+
+}
