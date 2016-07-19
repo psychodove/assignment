@@ -19,7 +19,7 @@ yellow orange: #FFA446
 
 body {background-color: #6F5846; padding: 15px;}
 div {background-color: #E35B5D; padding: 10px;}
-section {background-color: #fff; margin: 25px 10px; padding: 10px; min-height: 400px;}
+section {background-color: #fff; margin: 25px 5px; padding: 10px; min-height: 400px;}
 section span.border {
 	background: #0cf;
 	float: right;
@@ -28,7 +28,6 @@ section span.border {
 	max-height: 75px;
 	text-align: right;
 }
-section:after {clear:both;}
 /********** Large devices only **********/
 @media (min-width: 992px) {
   
