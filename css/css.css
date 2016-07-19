@@ -13,6 +13,7 @@ yellow orange: #FFA446
 }
 
 .row {width: 100%; min-height: 500px;}
+.row:after {clear:both;}
 .border { border: 1px solid #000; }
 .left {float: left;}
 .clear {clear: both;}
@@ -44,8 +45,3 @@ section span.border {
     width: 50%;
     float: left;
   }
-.tablet:nth-child(3){
-
-width: 100%;
-
-}
