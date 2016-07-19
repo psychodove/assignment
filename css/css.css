@@ -13,7 +13,6 @@ yellow orange: #FFA446
 }
 
 .row {width: 100%; min-height: 500px;}
-.row:after {clear:both;}
 .border { border: 1px solid #000; }
 .left {float: left;}
 .clear {clear: both;}
@@ -21,6 +20,7 @@ yellow orange: #FFA446
 body {background-color: #6F5846; padding: 15px;}
 div {background-color: #E35B5D; padding: 10px;}
 section {background-color: #fff; margin: 25px 5px; padding: 10px; min-height: 400px;}
+section:after {clear:both;}
 section span.border {
 	background: #0cf;
 	float: right;
