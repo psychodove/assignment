@@ -28,7 +28,7 @@ section span.border {
 	max-height: 75px;
 	text-align: right;
 }
-
+section:after {clear:both;}
 /********** Large devices only **********/
 @media (min-width: 992px) {
   
