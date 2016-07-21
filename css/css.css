@@ -10,6 +10,7 @@ yellow orange: #FFA446
 
 * {
 	box-sizing: border-box;
+	margin: 0 auto;
 }
 
 .row {width: 100%; min-height: 500px;}
@@ -28,7 +29,6 @@ section span.border {
 	min-width: 200px;
 	max-height: 75px;
 	text-align: right;
-	margin: 5px;
 }
 
 section article {padding: 10px;}
