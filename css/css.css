@@ -10,7 +10,6 @@ yellow orange: #FFA446
 
 * {
 	box-sizing: border-box;
-	margin: 0 auto;
 }
 
 .row {width: 100%; min-height: 500px;}
@@ -19,9 +18,10 @@ yellow orange: #FFA446
 .left {float: left;}
 .clear {clear: both;}
 
+
 body {background-color: #6F5846; padding: 15px;}
 div {background-color: #E35B5D; padding: 10px;}
-section {background-color: #fff; min-height: 400px;}
+section {background-color: #fff; min-height: 400px; }
 section span.border {
 	background: #0cf;
 	float: right;
@@ -46,7 +46,7 @@ section article {padding: 10px;}
 @media (min-width: 768px) and (max-width: 991px) {
   
   .tablet {
-    width: 50%;
+    width: 41.66%;
     float: left;
   }
 .full { width: 100%; float:left; }
