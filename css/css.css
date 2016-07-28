@@ -16,7 +16,7 @@ h1 { padding: 10px 0 0 10px;}
 .row {width: 100%;}
 .border { border: 1px solid #000; }
 .left {float: left;}
-.clear {clear: both;}
+.clear:after {clear: both;}
 div.row div {margin: 10px auto;}
 
 body {background-color: #6F5846; padding: 15px;}
