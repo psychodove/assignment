@@ -10,7 +10,7 @@ yellow orange: #FFA446
 
 * {
 	box-sizing: border-box;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
 }
 h1 { padding: 10px 0 0 10px;}
 #container{ height: 500px; background-color: #E35B5D; }
@@ -20,7 +20,7 @@ h1 { padding: 10px 0 0 10px;}
 .clear:after {clear: both;}
 div.row div { margin: 10px auto; }
 
-body {background-color: #6F5846; padding: 15px;}
+body {background-color: #6F5846; padding: 15px; font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
 section {background-color: #fff; width:90%; min-height: 400px; margin-right: auto;
   margin-left: auto; }
 section span.border {
