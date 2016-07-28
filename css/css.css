@@ -10,6 +10,7 @@ yellow orange: #FFA446
 
 * {
 	box-sizing: border-box;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 h1 { padding: 10px 0 0 10px;}
 #container{ height: 500px; background-color: #E35B5D; }
